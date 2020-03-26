@@ -10,8 +10,7 @@ The jupyter file (EnsembleLearning_Project(1).ipynb) contains our original code;
 
 Finally, Submision_FinalFeaturesMapsExtractor.ipynb is the jupyter file we used to process the image and train a ResNet50 on it.
 
-The images.zip is the file where the images are stored.
-
+We could not looad the images in the Gitthub due to the size of the zip file (2.5 GB).
 
 
 
